@@ -1,0 +1,5 @@
+define function{
+	bc = 10;
+    io.print("Hello World")
+}
+function!
