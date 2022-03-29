@@ -4,3 +4,13 @@
 
 
 ![Conventional Commits](https://img.shields.io/badge/Tony%20-0.0.1-red.svg) ![Conventional Commits](https://img.shields.io/badge/gcc%20-v9.3.0-voilet.svg)
+
+
+
+# Syntax:
+    define Function{
+        io.print("Hello World")
+        io.eval('(6+3)/2')
+    }
+    
+    Function!
